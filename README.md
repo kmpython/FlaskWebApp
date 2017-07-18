@@ -25,6 +25,11 @@ To run the application on your system
 
 
 The emphasis of this project was to learn the concepts of Web Development and Web Applications - making the database, using ORMs,
-performing CURD operations, undersstand URL routing, GET/POST requests and setting up a simple front end to show the results.
+performing CURD operations, understand URL routing, GET/POST requests and setting up a simple front end to show the results.
 
-Ideas for further enhancements are to add API end points, setup login using OAuth and design a fancy UI using CSS.
+Ideas for further enhancements are to add API end points, setup login using OAuth and design a fancy UI using CSS. 
+
+**References:**
+
+1. Udacity - FullStack Foundations Course : <https://www.udacity.com/course/full-stack-foundations--ud088>
+2. YouTube - Flask Tutorials : <https://www.youtube.com/playlist?list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l>
