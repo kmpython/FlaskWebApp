@@ -13,6 +13,8 @@ psycopg2 = 2.6.2
 
 I have used PyCharm Community edition as my IDE of choice for development and pgAdmin4 as GUI for the database.
 
+
+This application allows users to view/add/edit/delete restaurants and their associated Menu Items. The database schema is two tables - Restaurant and MenuItem having One-to-Many relationship and linked via a ForeignKey.
 To run the application on your system 
 1. Fork/Download the project to your system
 2. Setup the required environments (python 3.5.x, Flask, Flask-SQLAlchemy, PostgreSQL and psycopg2)
